@@ -46,4 +46,6 @@ func WorkJobProblem() {
 	for re := range res {
 		fmt.Println(re)
 	}
+
+	// here solve pipeline example
 }

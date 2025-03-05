@@ -63,5 +63,6 @@ func main() {
 	// example number one
 
 	WorkJobProblem()
+	PipelineExa()
 	fmt.Println("Total time taken ", time.Since(start))
 }
