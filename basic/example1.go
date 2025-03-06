@@ -47,5 +47,4 @@ func WorkJobProblem() {
 		fmt.Println(re)
 	}
 
-	// here solve pipeline example
 }
